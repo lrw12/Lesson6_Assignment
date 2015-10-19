@@ -126,7 +126,7 @@ function createEventListeners() {
 
 /* open center figure in separate window */
 function zoomFig() {
-   
+   var zoomWindow = window.open("zoom.htm", "zoomwin", "width=960,height=600");
 }
 
 
